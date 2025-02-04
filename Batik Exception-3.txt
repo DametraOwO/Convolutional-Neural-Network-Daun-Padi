@@ -1,1 +1,0 @@
-{0: 'Bercak Cokelat', 1: 'Busuk Daun', 2: 'Hawar Daun Bakteri'}
